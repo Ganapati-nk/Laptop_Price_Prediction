@@ -5,8 +5,8 @@ import numpy as np
 
 st.title("Laptop Price Predictor")
 
-pipe = pickle.load(open('pipe.pkl', 'rb'))
-df = pickle.load(open('data.pkl', 'rb'))
+pipe = pickle.load(open('pipe1.pkl', 'rb'))
+df = pickle.load(open('data1.pkl', 'rb'))
 
 # brand
 company = st.selectbox('Brand', df['Company'].unique())
