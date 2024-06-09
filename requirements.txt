@@ -1,8 +1,9 @@
 streamlit
-Python==3.8.8
+Python
 scikit-learn
 pandas
 numpy
 pickle-mixin
 pickleshare
+gunicorn
 
