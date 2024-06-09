@@ -7,4 +7,5 @@ pickleshare
 gunicorn
 xgboost
 app
+sklearn.ensemble._gb_losses
 
