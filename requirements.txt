@@ -1,4 +1,5 @@
 streamlit
+Python==3.8.8
 scikit-learn
 pandas
 numpy
