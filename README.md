@@ -44,7 +44,7 @@ The project is deployed using Streamlit and is accessible through the following 
 - Python
 - Scikit-learn
 - Streamlit (for web deployment)
-- HTML/CSS (for frontend)
+
 
 </div>
 
@@ -88,18 +88,9 @@ Contributions to the project are welcome! If you find any issues or have suggest
 
 <div align="justify">
 
-## License
 
-This project is licensed under the [insert license name]. See the LICENSE file for more details.
 
 </div>
 
----
 
-<div align="justify">
 
-## Contact
-
-For any inquiries or feedback, you can reach out to [insert contact information].
-
-</div>
