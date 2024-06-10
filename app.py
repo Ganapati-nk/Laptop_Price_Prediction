@@ -66,7 +66,7 @@ if st.button('Predict Price'):
 
     query = query.reshape(1, 12)
     st.title("Predicted Price is ₹ " + str(int(np.exp(pipe.predict(query)))))
-
+    app = st.container()
 
 
 
