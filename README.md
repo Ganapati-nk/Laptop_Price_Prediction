@@ -32,7 +32,7 @@ The Laptop Price Predictor is a machine learning project aimed at predicting the
 
 ## Deployment
 
-The project is deployed using Streamlit and is accessible through the following link: https://laptoppriceprediction-ytrbzhxobjkwepjrl5yappq.streamlit.app/
+The project is deployed using Streamlit and is accessible through the following link: https://laptop-price-prediction-un6n.onrender.com
 </div>
 
 ---
